@@ -1,7 +1,6 @@
 ---
 title: "Codebook"
 author: "adler_jai"
-date: "04/08/2020"
 output: html_document
 # Code Book
 
